@@ -1,1 +1,786 @@
-[]
+[
+  {
+    "id": "nichengfuben.provider-aitianhu2-adapter",
+    "manifest": {
+      "manifest_version": 2,
+      "id": "nichengfuben.provider-aitianhu2-adapter",
+      "name": "Provider Aitianhu2 Adapter",
+      "version": "1.0.0",
+      "description": "aitianhu2 platform adapter plugin",
+      "plugin_type": "platform",
+      "author": {
+        "name": "nichengfuben"
+      },
+      "host_application": {
+        "min_version": "2.2.0-alpha",
+        "max_version": "2.2.99"
+      },
+      "sdk": {
+        "min_version": "0.3.0",
+        "max_version": "0.99.99"
+      },
+      "dependencies": [],
+      "capabilities": [
+        "platform.adapter"
+      ]
+    },
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Aitianhu2-Adapter",
+    "changelog": "",
+    "readme": ""
+  },
+  {
+    "id": "nichengfuben.provider-apiairforce-adapter",
+    "manifest": {
+      "manifest_version": 2,
+      "id": "nichengfuben.provider-apiairforce-adapter",
+      "name": "Provider Apiairforce Adapter",
+      "version": "1.0.0",
+      "description": "apiairforce platform adapter plugin",
+      "plugin_type": "platform",
+      "author": {
+        "name": "nichengfuben"
+      },
+      "host_application": {
+        "min_version": "2.2.0-alpha",
+        "max_version": "2.2.99"
+      },
+      "sdk": {
+        "min_version": "0.3.0",
+        "max_version": "0.99.99"
+      },
+      "dependencies": [],
+      "capabilities": [
+        "platform.adapter"
+      ]
+    },
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Apiairforce-Adapter",
+    "changelog": "",
+    "readme": ""
+  },
+  {
+    "id": "nichengfuben.provider-azuretranslate-adapter",
+    "manifest": {
+      "manifest_version": 2,
+      "id": "nichengfuben.provider-azuretranslate-adapter",
+      "name": "Provider Azuretranslate Adapter",
+      "version": "1.0.0",
+      "description": "azuretranslate platform adapter plugin",
+      "plugin_type": "platform",
+      "author": {
+        "name": "nichengfuben"
+      },
+      "host_application": {
+        "min_version": "2.2.0-alpha",
+        "max_version": "2.2.99"
+      },
+      "sdk": {
+        "min_version": "0.3.0",
+        "max_version": "0.99.99"
+      },
+      "dependencies": [],
+      "capabilities": [
+        "platform.adapter"
+      ]
+    },
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Azuretranslate-Adapter",
+    "changelog": "",
+    "readme": ""
+  },
+  {
+    "id": "nichengfuben.provider-caiyuesbk-adapter",
+    "manifest": {
+      "manifest_version": 2,
+      "id": "nichengfuben.provider-caiyuesbk-adapter",
+      "name": "Provider Caiyuesbk Adapter",
+      "version": "1.0.0",
+      "description": "caiyuesbk platform adapter plugin",
+      "plugin_type": "platform",
+      "author": {
+        "name": "nichengfuben"
+      },
+      "host_application": {
+        "min_version": "2.2.0-alpha",
+        "max_version": "2.2.99"
+      },
+      "sdk": {
+        "min_version": "0.3.0",
+        "max_version": "0.99.99"
+      },
+      "dependencies": [],
+      "capabilities": [
+        "platform.adapter"
+      ]
+    },
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Caiyuesbk-Adapter",
+    "changelog": "",
+    "readme": ""
+  },
+  {
+    "id": "nichengfuben.provider-cerebras-adapter",
+    "manifest": {
+      "manifest_version": 2,
+      "id": "nichengfuben.provider-cerebras-adapter",
+      "name": "Provider Cerebras Adapter",
+      "version": "1.0.0",
+      "description": "cerebras platform adapter plugin",
+      "plugin_type": "platform",
+      "author": {
+        "name": "nichengfuben"
+      },
+      "host_application": {
+        "min_version": "2.2.0-alpha",
+        "max_version": "2.2.99"
+      },
+      "sdk": {
+        "min_version": "0.3.0",
+        "max_version": "0.99.99"
+      },
+      "dependencies": [],
+      "capabilities": [
+        "platform.adapter"
+      ]
+    },
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Cerebras-Adapter",
+    "changelog": "",
+    "readme": ""
+  },
+  {
+    "id": "nichengfuben.provider-chatmoe-adapter",
+    "manifest": {
+      "manifest_version": 2,
+      "id": "nichengfuben.provider-chatmoe-adapter",
+      "name": "Provider Chatmoe Adapter",
+      "version": "1.0.0",
+      "description": "chatmoe platform adapter plugin",
+      "plugin_type": "platform",
+      "author": {
+        "name": "nichengfuben"
+      },
+      "host_application": {
+        "min_version": "2.2.0-alpha",
+        "max_version": "2.2.99"
+      },
+      "sdk": {
+        "min_version": "0.3.0",
+        "max_version": "0.99.99"
+      },
+      "dependencies": [],
+      "capabilities": [
+        "platform.adapter"
+      ]
+    },
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Chatmoe-Adapter",
+    "changelog": "",
+    "readme": ""
+  },
+  {
+    "id": "nichengfuben.provider-chutes-adapter",
+    "manifest": {
+      "manifest_version": 2,
+      "id": "nichengfuben.provider-chutes-adapter",
+      "name": "Provider Chutes Adapter",
+      "version": "1.0.0",
+      "description": "chutes platform adapter plugin",
+      "plugin_type": "platform",
+      "author": {
+        "name": "nichengfuben"
+      },
+      "host_application": {
+        "min_version": "2.2.0-alpha",
+        "max_version": "2.2.99"
+      },
+      "sdk": {
+        "min_version": "0.3.0",
+        "max_version": "0.99.99"
+      },
+      "dependencies": [],
+      "capabilities": [
+        "platform.adapter"
+      ]
+    },
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Chutes-Adapter",
+    "changelog": "",
+    "readme": ""
+  },
+  {
+    "id": "nichengfuben.provider-codebuddy-adapter",
+    "manifest": {
+      "manifest_version": 2,
+      "id": "nichengfuben.provider-codebuddy-adapter",
+      "name": "Provider Codebuddy Adapter",
+      "version": "1.0.0",
+      "description": "codebuddy platform adapter plugin",
+      "plugin_type": "platform",
+      "author": {
+        "name": "nichengfuben"
+      },
+      "host_application": {
+        "min_version": "2.2.0-alpha",
+        "max_version": "2.2.99"
+      },
+      "sdk": {
+        "min_version": "0.3.0",
+        "max_version": "0.99.99"
+      },
+      "dependencies": [],
+      "capabilities": [
+        "platform.adapter"
+      ]
+    },
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Codebuddy-Adapter",
+    "changelog": "",
+    "readme": ""
+  },
+  {
+    "id": "nichengfuben.provider-coplan-util",
+    "manifest": {
+      "manifest_version": 2,
+      "id": "nichengfuben.provider-coplan-util",
+      "name": "Provider Coplan Util",
+      "version": "1.0.0",
+      "description": "CodingPlan 策略组与策略市场扩展包（默认品牌 entropy�?,
+      "plugin_type": "coplan",
+      "author": {
+        "name": "nichengfuben"
+      },
+      "host_application": {
+        "min_version": "2.2.0-alpha",
+        "max_version": "2.2.99"
+      },
+      "sdk": {
+        "min_version": "0.3.0",
+        "max_version": "0.99.99"
+      },
+      "dependencies": [],
+      "capabilities": [
+        "coplan.strategy_group",
+        "coplan.strategy_market"
+      ]
+    },
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Coplan-Util",
+    "changelog": "",
+    "readme": ""
+  },
+  {
+    "id": "nichengfuben.provider-cursor-adapter",
+    "manifest": {
+      "manifest_version": 2,
+      "id": "nichengfuben.provider-cursor-adapter",
+      "name": "Provider Cursor Adapter",
+      "version": "1.0.0",
+      "description": "cursor platform adapter plugin",
+      "plugin_type": "platform",
+      "author": {
+        "name": "nichengfuben"
+      },
+      "host_application": {
+        "min_version": "2.2.0-alpha",
+        "max_version": "2.2.99"
+      },
+      "sdk": {
+        "min_version": "0.3.0",
+        "max_version": "0.99.99"
+      },
+      "dependencies": [],
+      "capabilities": [
+        "platform.adapter"
+      ]
+    },
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Cursor-Adapter",
+    "changelog": "",
+    "readme": ""
+  },
+  {
+    "id": "nichengfuben.provider-deepl-adapter",
+    "manifest": {
+      "manifest_version": 2,
+      "id": "nichengfuben.provider-deepl-adapter",
+      "name": "Provider Deepl Adapter",
+      "version": "1.0.0",
+      "description": "deepl platform adapter plugin",
+      "plugin_type": "platform",
+      "author": {
+        "name": "nichengfuben"
+      },
+      "host_application": {
+        "min_version": "2.2.0-alpha",
+        "max_version": "2.2.99"
+      },
+      "sdk": {
+        "min_version": "0.3.0",
+        "max_version": "0.99.99"
+      },
+      "dependencies": [],
+      "capabilities": [
+        "platform.adapter"
+      ]
+    },
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Deepl-Adapter",
+    "changelog": "",
+    "readme": ""
+  },
+  {
+    "id": "nichengfuben.provider-deepseek-adapter",
+    "manifest": {
+      "manifest_version": 2,
+      "id": "nichengfuben.provider-deepseek-adapter",
+      "name": "Provider Deepseek Adapter",
+      "version": "1.0.0",
+      "description": "deepseek platform adapter plugin",
+      "plugin_type": "platform",
+      "author": {
+        "name": "nichengfuben"
+      },
+      "host_application": {
+        "min_version": "2.2.0-alpha",
+        "max_version": "2.2.99"
+      },
+      "sdk": {
+        "min_version": "0.3.0",
+        "max_version": "0.99.99"
+      },
+      "dependencies": [],
+      "capabilities": [
+        "platform.adapter"
+      ]
+    },
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Deepseek-Adapter",
+    "changelog": "",
+    "readme": ""
+  },
+  {
+    "id": "nichengfuben.provider-edgetts-adapter",
+    "manifest": {
+      "manifest_version": 2,
+      "id": "nichengfuben.provider-edgetts-adapter",
+      "name": "Provider Edgetts Adapter",
+      "version": "1.0.0",
+      "description": "edgetts platform adapter plugin",
+      "plugin_type": "platform",
+      "author": {
+        "name": "nichengfuben"
+      },
+      "host_application": {
+        "min_version": "2.2.0-alpha",
+        "max_version": "2.2.99"
+      },
+      "sdk": {
+        "min_version": "0.3.0",
+        "max_version": "0.99.99"
+      },
+      "dependencies": [],
+      "capabilities": [
+        "platform.adapter"
+      ]
+    },
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Edgetts-Adapter",
+    "changelog": "",
+    "readme": ""
+  },
+  {
+    "id": "nichengfuben.provider-fncall-util",
+    "manifest": {
+      "manifest_version": 2,
+      "id": "nichengfuben.provider-fncall-util",
+      "name": "Provider FnCall Util",
+      "version": "1.0.0",
+      "description": "XML/ANTML/DSML 等工具协议扩展包",
+      "plugin_type": "fncall",
+      "author": {
+        "name": "nichengfuben"
+      },
+      "host_application": {
+        "min_version": "2.2.0-alpha",
+        "max_version": "2.2.99"
+      },
+      "sdk": {
+        "min_version": "0.3.0",
+        "max_version": "0.99.99"
+      },
+      "dependencies": [],
+      "capabilities": [
+        "fncall.register_protocol"
+      ]
+    },
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Fncall-Util",
+    "changelog": "",
+    "readme": ""
+  },
+  {
+    "id": "nichengfuben.provider-googletranslate-adapter",
+    "manifest": {
+      "manifest_version": 2,
+      "id": "nichengfuben.provider-googletranslate-adapter",
+      "name": "Provider Googletranslate Adapter",
+      "version": "1.0.0",
+      "description": "googletranslate platform adapter plugin",
+      "plugin_type": "platform",
+      "author": {
+        "name": "nichengfuben"
+      },
+      "host_application": {
+        "min_version": "2.2.0-alpha",
+        "max_version": "2.2.99"
+      },
+      "sdk": {
+        "min_version": "0.3.0",
+        "max_version": "0.99.99"
+      },
+      "dependencies": [],
+      "capabilities": [
+        "platform.adapter"
+      ]
+    },
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Googletranslate-Adapter",
+    "changelog": "",
+    "readme": ""
+  },
+  {
+    "id": "nichengfuben.provider-gtts-adapter",
+    "manifest": {
+      "manifest_version": 2,
+      "id": "nichengfuben.provider-gtts-adapter",
+      "name": "Provider Gtts Adapter",
+      "version": "1.0.0",
+      "description": "gtts platform adapter plugin",
+      "plugin_type": "platform",
+      "author": {
+        "name": "nichengfuben"
+      },
+      "host_application": {
+        "min_version": "2.2.0-alpha",
+        "max_version": "2.2.99"
+      },
+      "sdk": {
+        "min_version": "0.3.0",
+        "max_version": "0.99.99"
+      },
+      "dependencies": [],
+      "capabilities": [
+        "platform.adapter"
+      ]
+    },
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Gtts-Adapter",
+    "changelog": "",
+    "readme": ""
+  },
+  {
+    "id": "nichengfuben.provider-n1n-adapter",
+    "manifest": {
+      "manifest_version": 2,
+      "id": "nichengfuben.provider-n1n-adapter",
+      "name": "Provider N1n Adapter",
+      "version": "1.0.0",
+      "description": "n1n platform adapter plugin",
+      "plugin_type": "platform",
+      "author": {
+        "name": "nichengfuben"
+      },
+      "host_application": {
+        "min_version": "2.2.0-alpha",
+        "max_version": "2.2.99"
+      },
+      "sdk": {
+        "min_version": "0.3.0",
+        "max_version": "0.99.99"
+      },
+      "dependencies": [],
+      "capabilities": [
+        "platform.adapter"
+      ]
+    },
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-N1n-Adapter",
+    "changelog": "",
+    "readme": ""
+  },
+  {
+    "id": "nichengfuben.provider-noobkeys-adapter",
+    "manifest": {
+      "manifest_version": 2,
+      "id": "nichengfuben.provider-noobkeys-adapter",
+      "name": "Provider Noobkeys Adapter",
+      "version": "1.0.0",
+      "description": "noobkeys platform adapter plugin",
+      "plugin_type": "platform",
+      "author": {
+        "name": "nichengfuben"
+      },
+      "host_application": {
+        "min_version": "2.2.0-alpha",
+        "max_version": "2.2.99"
+      },
+      "sdk": {
+        "min_version": "0.3.0",
+        "max_version": "0.99.99"
+      },
+      "dependencies": [],
+      "capabilities": [
+        "platform.adapter"
+      ]
+    },
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Noobkeys-Adapter",
+    "changelog": "",
+    "readme": ""
+  },
+  {
+    "id": "nichengfuben.provider-nvidia-adapter",
+    "manifest": {
+      "manifest_version": 2,
+      "id": "nichengfuben.provider-nvidia-adapter",
+      "name": "Provider Nvidia Adapter",
+      "version": "1.0.0",
+      "description": "nvidia platform adapter plugin",
+      "plugin_type": "platform",
+      "author": {
+        "name": "nichengfuben"
+      },
+      "host_application": {
+        "min_version": "2.2.0-alpha",
+        "max_version": "2.2.99"
+      },
+      "sdk": {
+        "min_version": "0.3.0",
+        "max_version": "0.99.99"
+      },
+      "dependencies": [],
+      "capabilities": [
+        "platform.adapter"
+      ]
+    },
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Nvidia-Adapter",
+    "changelog": "",
+    "readme": ""
+  },
+  {
+    "id": "nichengfuben.provider-ollama-adapter",
+    "manifest": {
+      "manifest_version": 2,
+      "id": "nichengfuben.provider-ollama-adapter",
+      "name": "Provider Ollama Adapter",
+      "version": "1.0.0",
+      "description": "ollama platform adapter plugin",
+      "plugin_type": "platform",
+      "author": {
+        "name": "nichengfuben"
+      },
+      "host_application": {
+        "min_version": "2.2.0-alpha",
+        "max_version": "2.2.99"
+      },
+      "sdk": {
+        "min_version": "0.3.0",
+        "max_version": "0.99.99"
+      },
+      "dependencies": [],
+      "capabilities": [
+        "platform.adapter"
+      ]
+    },
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Ollama-Adapter",
+    "changelog": "",
+    "readme": ""
+  },
+  {
+    "id": "nichengfuben.provider-openaifm-adapter",
+    "manifest": {
+      "manifest_version": 2,
+      "id": "nichengfuben.provider-openaifm-adapter",
+      "name": "Provider Openaifm Adapter",
+      "version": "1.0.0",
+      "description": "openaifm platform adapter plugin",
+      "plugin_type": "platform",
+      "author": {
+        "name": "nichengfuben"
+      },
+      "host_application": {
+        "min_version": "2.2.0-alpha",
+        "max_version": "2.2.99"
+      },
+      "sdk": {
+        "min_version": "0.3.0",
+        "max_version": "0.99.99"
+      },
+      "dependencies": [],
+      "capabilities": [
+        "platform.adapter"
+      ]
+    },
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Openaifm-Adapter",
+    "changelog": "",
+    "readme": ""
+  },
+  {
+    "id": "nichengfuben.provider-openrouter-adapter",
+    "manifest": {
+      "manifest_version": 2,
+      "id": "nichengfuben.provider-openrouter-adapter",
+      "name": "Provider Openrouter Adapter",
+      "version": "1.0.0",
+      "description": "openrouter platform adapter plugin",
+      "plugin_type": "platform",
+      "author": {
+        "name": "nichengfuben"
+      },
+      "host_application": {
+        "min_version": "2.2.0-alpha",
+        "max_version": "2.2.99"
+      },
+      "sdk": {
+        "min_version": "0.3.0",
+        "max_version": "0.99.99"
+      },
+      "dependencies": [],
+      "capabilities": [
+        "platform.adapter"
+      ]
+    },
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Openrouter-Adapter",
+    "changelog": "",
+    "readme": ""
+  },
+  {
+    "id": "nichengfuben.provider-perplexity-adapter",
+    "manifest": {
+      "manifest_version": 2,
+      "id": "nichengfuben.provider-perplexity-adapter",
+      "name": "Provider Perplexity Adapter",
+      "version": "1.0.0",
+      "description": "perplexity platform adapter plugin",
+      "plugin_type": "platform",
+      "author": {
+        "name": "nichengfuben"
+      },
+      "host_application": {
+        "min_version": "2.2.0-alpha",
+        "max_version": "2.2.99"
+      },
+      "sdk": {
+        "min_version": "0.3.0",
+        "max_version": "0.99.99"
+      },
+      "dependencies": [],
+      "capabilities": [
+        "platform.adapter"
+      ]
+    },
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Perplexity-Adapter",
+    "changelog": "",
+    "readme": ""
+  },
+  {
+    "id": "nichengfuben.provider-qwen-adapter",
+    "manifest": {
+      "manifest_version": 2,
+      "id": "nichengfuben.provider-qwen-adapter",
+      "name": "Provider Qwen Adapter",
+      "version": "1.0.0",
+      "description": "qwen platform adapter plugin",
+      "plugin_type": "platform",
+      "author": {
+        "name": "nichengfuben"
+      },
+      "host_application": {
+        "min_version": "2.2.0-alpha",
+        "max_version": "2.2.99"
+      },
+      "sdk": {
+        "min_version": "0.3.0",
+        "max_version": "0.99.99"
+      },
+      "dependencies": [],
+      "capabilities": [
+        "platform.adapter"
+      ]
+    },
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Qwen-Adapter",
+    "changelog": "",
+    "readme": ""
+  },
+  {
+    "id": "nichengfuben.provider-webui-util",
+    "manifest": {
+      "manifest_version": 2,
+      "id": "nichengfuben.provider-webui-util",
+      "name": "Provider WebUI Util",
+      "version": "1.0.0",
+      "description": "WebUI 增强风格与组件扩展包",
+      "plugin_type": "webui",
+      "author": {
+        "name": "nichengfuben"
+      },
+      "host_application": {
+        "min_version": "2.2.0-alpha",
+        "max_version": "2.2.99"
+      },
+      "sdk": {
+        "min_version": "0.3.0",
+        "max_version": "0.99.99"
+      },
+      "dependencies": [],
+      "capabilities": [
+        "webui.enhance"
+      ]
+    },
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Webui-Util",
+    "changelog": "",
+    "readme": ""
+  },
+  {
+    "id": "nichengfuben.provider-yandextranslate-adapter",
+    "manifest": {
+      "manifest_version": 2,
+      "id": "nichengfuben.provider-yandextranslate-adapter",
+      "name": "Provider Yandextranslate Adapter",
+      "version": "1.0.0",
+      "description": "yandextranslate platform adapter plugin",
+      "plugin_type": "platform",
+      "author": {
+        "name": "nichengfuben"
+      },
+      "host_application": {
+        "min_version": "2.2.0-alpha",
+        "max_version": "2.2.99"
+      },
+      "sdk": {
+        "min_version": "0.3.0",
+        "max_version": "0.99.99"
+      },
+      "dependencies": [],
+      "capabilities": [
+        "platform.adapter"
+      ]
+    },
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Yandextranslate-Adapter",
+    "changelog": "",
+    "readme": ""
+  },
+  {
+    "id": "nichengfuben.provider-zen-adapter",
+    "manifest": {
+      "manifest_version": 2,
+      "id": "nichengfuben.provider-zen-adapter",
+      "name": "Provider Zen Adapter",
+      "version": "1.0.0",
+      "description": "zen 平台：USE_PROXY_POOL 切换 opencode 代理池与 API Key 模式",
+      "plugin_type": "platform",
+      "author": {
+        "name": "nichengfuben"
+      },
+      "host_application": {
+        "min_version": "2.2.0-alpha",
+        "max_version": "2.2.99"
+      },
+      "sdk": {
+        "min_version": "0.3.0",
+        "max_version": "0.99.99"
+      },
+      "dependencies": [],
+      "capabilities": [
+        "platform.adapter"
+      ]
+    },
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Zen-Adapter",
+    "changelog": "",
+    "readme": ""
+  }
+]

@@ -1,110 +1,110 @@
 [
   {
     "id": "nichengfuben.provider-aitianhu2-adapter",
-    "repositoryUrl": "https://github.com/nichengfuben/Provider-Aitianhu2-Adapter"
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Aitianhu2-Adapter"
   },
   {
     "id": "nichengfuben.provider-apiairforce-adapter",
-    "repositoryUrl": "https://github.com/nichengfuben/Provider-Apiairforce-Adapter"
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Apiairforce-Adapter"
   },
   {
     "id": "nichengfuben.provider-azuretranslate-adapter",
-    "repositoryUrl": "https://github.com/nichengfuben/Provider-Azuretranslate-Adapter"
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Azuretranslate-Adapter"
   },
   {
     "id": "nichengfuben.provider-caiyuesbk-adapter",
-    "repositoryUrl": "https://github.com/nichengfuben/Provider-Caiyuesbk-Adapter"
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Caiyuesbk-Adapter"
   },
   {
     "id": "nichengfuben.provider-cerebras-adapter",
-    "repositoryUrl": "https://github.com/nichengfuben/Provider-Cerebras-Adapter"
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Cerebras-Adapter"
   },
   {
     "id": "nichengfuben.provider-chatmoe-adapter",
-    "repositoryUrl": "https://github.com/nichengfuben/Provider-Chatmoe-Adapter"
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Chatmoe-Adapter"
   },
   {
     "id": "nichengfuben.provider-chutes-adapter",
-    "repositoryUrl": "https://github.com/nichengfuben/Provider-Chutes-Adapter"
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Chutes-Adapter"
   },
   {
     "id": "nichengfuben.provider-codebuddy-adapter",
-    "repositoryUrl": "https://github.com/nichengfuben/Provider-Codebuddy-Adapter"
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Codebuddy-Adapter"
   },
   {
     "id": "nichengfuben.provider-coplan-util",
-    "repositoryUrl": "https://github.com/nichengfuben/Provider-Coplan-Util"
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Coplan-Util"
   },
   {
     "id": "nichengfuben.provider-cursor-adapter",
-    "repositoryUrl": "https://github.com/nichengfuben/Provider-Cursor-Adapter"
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Cursor-Adapter"
   },
   {
     "id": "nichengfuben.provider-deepl-adapter",
-    "repositoryUrl": "https://github.com/nichengfuben/Provider-Deepl-Adapter"
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Deepl-Adapter"
   },
   {
     "id": "nichengfuben.provider-deepseek-adapter",
-    "repositoryUrl": "https://github.com/nichengfuben/Provider-Deepseek-Adapter"
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Deepseek-Adapter"
   },
   {
     "id": "nichengfuben.provider-edgetts-adapter",
-    "repositoryUrl": "https://github.com/nichengfuben/Provider-Edgetts-Adapter"
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Edgetts-Adapter"
   },
   {
     "id": "nichengfuben.provider-fncall-util",
-    "repositoryUrl": "https://github.com/nichengfuben/Provider-Fncall-Util"
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Fncall-Util"
   },
   {
     "id": "nichengfuben.provider-googletranslate-adapter",
-    "repositoryUrl": "https://github.com/nichengfuben/Provider-Googletranslate-Adapter"
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Googletranslate-Adapter"
   },
   {
     "id": "nichengfuben.provider-gtts-adapter",
-    "repositoryUrl": "https://github.com/nichengfuben/Provider-Gtts-Adapter"
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Gtts-Adapter"
   },
   {
     "id": "nichengfuben.provider-n1n-adapter",
-    "repositoryUrl": "https://github.com/nichengfuben/Provider-N1n-Adapter"
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-N1n-Adapter"
   },
   {
     "id": "nichengfuben.provider-noobkeys-adapter",
-    "repositoryUrl": "https://github.com/nichengfuben/Provider-Noobkeys-Adapter"
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Noobkeys-Adapter"
   },
   {
     "id": "nichengfuben.provider-nvidia-adapter",
-    "repositoryUrl": "https://github.com/nichengfuben/Provider-Nvidia-Adapter"
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Nvidia-Adapter"
   },
   {
     "id": "nichengfuben.provider-ollama-adapter",
-    "repositoryUrl": "https://github.com/nichengfuben/Provider-Ollama-Adapter"
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Ollama-Adapter"
   },
   {
     "id": "nichengfuben.provider-openaifm-adapter",
-    "repositoryUrl": "https://github.com/nichengfuben/Provider-Openaifm-Adapter"
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Openaifm-Adapter"
   },
   {
     "id": "nichengfuben.provider-openrouter-adapter",
-    "repositoryUrl": "https://github.com/nichengfuben/Provider-Openrouter-Adapter"
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Openrouter-Adapter"
   },
   {
     "id": "nichengfuben.provider-perplexity-adapter",
-    "repositoryUrl": "https://github.com/nichengfuben/Provider-Perplexity-Adapter"
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Perplexity-Adapter"
   },
   {
     "id": "nichengfuben.provider-qwen-adapter",
-    "repositoryUrl": "https://github.com/nichengfuben/Provider-Qwen-Adapter"
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Qwen-Adapter"
   },
   {
     "id": "nichengfuben.provider-webui-util",
-    "repositoryUrl": "https://github.com/nichengfuben/Provider-Webui-Util"
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Webui-Util"
   },
   {
     "id": "nichengfuben.provider-yandextranslate-adapter",
-    "repositoryUrl": "https://github.com/nichengfuben/Provider-Yandextranslate-Adapter"
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Yandextranslate-Adapter"
   },
   {
     "id": "nichengfuben.provider-zen-adapter",
-    "repositoryUrl": "https://github.com/nichengfuben/Provider-Zen-Adapter"
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Zen-Adapter"
   }
 ]
