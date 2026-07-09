@@ -1,0 +1,110 @@
+[
+  {
+    "id": "nichengfuben.provider-aitianhu2-adapter",
+    "repositoryUrl": "https://github.com/nichengfuben/Provider-Aitianhu2-Adapter"
+  },
+  {
+    "id": "nichengfuben.provider-apiairforce-adapter",
+    "repositoryUrl": "https://github.com/nichengfuben/Provider-Apiairforce-Adapter"
+  },
+  {
+    "id": "nichengfuben.provider-azuretranslate-adapter",
+    "repositoryUrl": "https://github.com/nichengfuben/Provider-Azuretranslate-Adapter"
+  },
+  {
+    "id": "nichengfuben.provider-caiyuesbk-adapter",
+    "repositoryUrl": "https://github.com/nichengfuben/Provider-Caiyuesbk-Adapter"
+  },
+  {
+    "id": "nichengfuben.provider-cerebras-adapter",
+    "repositoryUrl": "https://github.com/nichengfuben/Provider-Cerebras-Adapter"
+  },
+  {
+    "id": "nichengfuben.provider-chatmoe-adapter",
+    "repositoryUrl": "https://github.com/nichengfuben/Provider-Chatmoe-Adapter"
+  },
+  {
+    "id": "nichengfuben.provider-chutes-adapter",
+    "repositoryUrl": "https://github.com/nichengfuben/Provider-Chutes-Adapter"
+  },
+  {
+    "id": "nichengfuben.provider-codebuddy-adapter",
+    "repositoryUrl": "https://github.com/nichengfuben/Provider-Codebuddy-Adapter"
+  },
+  {
+    "id": "nichengfuben.provider-coplan-util",
+    "repositoryUrl": "https://github.com/nichengfuben/Provider-Coplan-Util"
+  },
+  {
+    "id": "nichengfuben.provider-cursor-adapter",
+    "repositoryUrl": "https://github.com/nichengfuben/Provider-Cursor-Adapter"
+  },
+  {
+    "id": "nichengfuben.provider-deepl-adapter",
+    "repositoryUrl": "https://github.com/nichengfuben/Provider-Deepl-Adapter"
+  },
+  {
+    "id": "nichengfuben.provider-deepseek-adapter",
+    "repositoryUrl": "https://github.com/nichengfuben/Provider-Deepseek-Adapter"
+  },
+  {
+    "id": "nichengfuben.provider-edgetts-adapter",
+    "repositoryUrl": "https://github.com/nichengfuben/Provider-Edgetts-Adapter"
+  },
+  {
+    "id": "nichengfuben.provider-fncall-util",
+    "repositoryUrl": "https://github.com/nichengfuben/Provider-Fncall-Util"
+  },
+  {
+    "id": "nichengfuben.provider-googletranslate-adapter",
+    "repositoryUrl": "https://github.com/nichengfuben/Provider-Googletranslate-Adapter"
+  },
+  {
+    "id": "nichengfuben.provider-gtts-adapter",
+    "repositoryUrl": "https://github.com/nichengfuben/Provider-Gtts-Adapter"
+  },
+  {
+    "id": "nichengfuben.provider-n1n-adapter",
+    "repositoryUrl": "https://github.com/nichengfuben/Provider-N1n-Adapter"
+  },
+  {
+    "id": "nichengfuben.provider-noobkeys-adapter",
+    "repositoryUrl": "https://github.com/nichengfuben/Provider-Noobkeys-Adapter"
+  },
+  {
+    "id": "nichengfuben.provider-nvidia-adapter",
+    "repositoryUrl": "https://github.com/nichengfuben/Provider-Nvidia-Adapter"
+  },
+  {
+    "id": "nichengfuben.provider-ollama-adapter",
+    "repositoryUrl": "https://github.com/nichengfuben/Provider-Ollama-Adapter"
+  },
+  {
+    "id": "nichengfuben.provider-openaifm-adapter",
+    "repositoryUrl": "https://github.com/nichengfuben/Provider-Openaifm-Adapter"
+  },
+  {
+    "id": "nichengfuben.provider-openrouter-adapter",
+    "repositoryUrl": "https://github.com/nichengfuben/Provider-Openrouter-Adapter"
+  },
+  {
+    "id": "nichengfuben.provider-perplexity-adapter",
+    "repositoryUrl": "https://github.com/nichengfuben/Provider-Perplexity-Adapter"
+  },
+  {
+    "id": "nichengfuben.provider-qwen-adapter",
+    "repositoryUrl": "https://github.com/nichengfuben/Provider-Qwen-Adapter"
+  },
+  {
+    "id": "nichengfuben.provider-webui-util",
+    "repositoryUrl": "https://github.com/nichengfuben/Provider-Webui-Util"
+  },
+  {
+    "id": "nichengfuben.provider-yandextranslate-adapter",
+    "repositoryUrl": "https://github.com/nichengfuben/Provider-Yandextranslate-Adapter"
+  },
+  {
+    "id": "nichengfuben.provider-zen-adapter",
+    "repositoryUrl": "https://github.com/nichengfuben/Provider-Zen-Adapter"
+  }
+]
