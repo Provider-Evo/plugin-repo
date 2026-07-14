@@ -19,7 +19,9 @@
         "min_version": "0.3.0",
         "max_version": "0.99.99"
       },
-      "dependencies": [],
+      "dependencies": [
+        "nichengfuben.provider-fncall-util"
+      ],
       "capabilities": [
         "platform.adapter"
       ]
@@ -48,7 +50,9 @@
         "min_version": "0.3.0",
         "max_version": "0.99.99"
       },
-      "dependencies": [],
+      "dependencies": [
+        "nichengfuben.provider-fncall-util"
+      ],
       "capabilities": [
         "platform.adapter"
       ]
@@ -77,7 +81,9 @@
         "min_version": "0.3.0",
         "max_version": "0.99.99"
       },
-      "dependencies": [],
+      "dependencies": [
+        "nichengfuben.provider-fncall-util"
+      ],
       "capabilities": [
         "platform.adapter"
       ]
@@ -106,7 +112,9 @@
         "min_version": "0.3.0",
         "max_version": "0.99.99"
       },
-      "dependencies": [],
+      "dependencies": [
+        "nichengfuben.provider-fncall-util"
+      ],
       "capabilities": [
         "platform.adapter"
       ]
@@ -135,12 +143,45 @@
         "min_version": "0.3.0",
         "max_version": "0.99.99"
       },
-      "dependencies": [],
+      "dependencies": [
+        "nichengfuben.provider-fncall-util"
+      ],
       "capabilities": [
         "platform.adapter"
       ]
     },
     "repositoryUrl": "https://github.com/Provider-Evo/Provider-Cerebras-Adapter",
+    "changelog": "",
+    "readme": ""
+  },
+  {
+    "id": "nichengfuben.provider-cfplayground-adapter",
+    "manifest": {
+      "manifest_version": 2,
+      "id": "nichengfuben.provider-cfplayground-adapter",
+      "name": "Provider Cfplayground Adapter",
+      "version": "1.0.0",
+      "description": "Cloudflare AI Playground platform adapter (WebSocket Model mode)",
+      "plugin_type": "platform",
+      "author": {
+        "name": "nichengfuben"
+      },
+      "host_application": {
+        "min_version": "2.2.268",
+        "max_version": "2.2.99"
+      },
+      "sdk": {
+        "min_version": "0.3.2",
+        "max_version": "0.99.99"
+      },
+      "dependencies": [
+        "nichengfuben.provider-fncall-util"
+      ],
+      "capabilities": [
+        "platform.adapter"
+      ]
+    },
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Cfplayground-Adapter",
     "changelog": "",
     "readme": ""
   },
@@ -164,7 +205,9 @@
         "min_version": "0.3.0",
         "max_version": "0.99.99"
       },
-      "dependencies": [],
+      "dependencies": [
+        "nichengfuben.provider-fncall-util"
+      ],
       "capabilities": [
         "platform.adapter"
       ]
@@ -193,12 +236,45 @@
         "min_version": "0.3.0",
         "max_version": "0.99.99"
       },
-      "dependencies": [],
+      "dependencies": [
+        "nichengfuben.provider-fncall-util"
+      ],
       "capabilities": [
         "platform.adapter"
       ]
     },
     "repositoryUrl": "https://github.com/Provider-Evo/Provider-Chutes-Adapter",
+    "changelog": "",
+    "readme": ""
+  },
+  {
+    "id": "nichengfuben.provider-cloudflare-adapter",
+    "manifest": {
+      "manifest_version": 2,
+      "id": "nichengfuben.provider-cloudflare-adapter",
+      "name": "Provider Cloudflare Adapter",
+      "version": "1.0.0",
+      "description": "Cloudflare Workers AI platform adapter (REST API mode)",
+      "plugin_type": "platform",
+      "author": {
+        "name": "nichengfuben"
+      },
+      "host_application": {
+        "min_version": "2.2.268",
+        "max_version": "2.2.99"
+      },
+      "sdk": {
+        "min_version": "0.3.3",
+        "max_version": "0.99.99"
+      },
+      "dependencies": [
+        "nichengfuben.provider-fncall-util"
+      ],
+      "capabilities": [
+        "platform.adapter"
+      ]
+    },
+    "repositoryUrl": "https://github.com/Provider-Evo/Provider-Cloudflare-Adapter",
     "changelog": "",
     "readme": ""
   },
@@ -222,7 +298,9 @@
         "min_version": "0.3.0",
         "max_version": "0.99.99"
       },
-      "dependencies": [],
+      "dependencies": [
+        "nichengfuben.provider-fncall-util"
+      ],
       "capabilities": [
         "platform.adapter"
       ]
@@ -238,13 +316,13 @@
       "id": "nichengfuben.provider-coplan-util",
       "name": "Provider Coplan Util",
       "version": "1.0.0",
-      "description": "CodingPlan 策略组与策略市场扩展包（默认品牌 entropy�?,
+      "description": "CodingPlan 策略组与策略市场扩展包（默认品牌 entropy）",
       "plugin_type": "coplan",
       "author": {
         "name": "nichengfuben"
       },
       "host_application": {
-        "min_version": "2.2.0-alpha",
+        "min_version": "2.2.268",
         "max_version": "2.2.99"
       },
       "sdk": {
@@ -281,7 +359,9 @@
         "min_version": "0.3.0",
         "max_version": "0.99.99"
       },
-      "dependencies": [],
+      "dependencies": [
+        "nichengfuben.provider-fncall-util"
+      ],
       "capabilities": [
         "platform.adapter"
       ]
@@ -310,7 +390,9 @@
         "min_version": "0.3.0",
         "max_version": "0.99.99"
       },
-      "dependencies": [],
+      "dependencies": [
+        "nichengfuben.provider-fncall-util"
+      ],
       "capabilities": [
         "platform.adapter"
       ]
@@ -339,7 +421,9 @@
         "min_version": "0.3.0",
         "max_version": "0.99.99"
       },
-      "dependencies": [],
+      "dependencies": [
+        "nichengfuben.provider-fncall-util"
+      ],
       "capabilities": [
         "platform.adapter"
       ]
@@ -368,7 +452,9 @@
         "min_version": "0.3.0",
         "max_version": "0.99.99"
       },
-      "dependencies": [],
+      "dependencies": [
+        "nichengfuben.provider-fncall-util"
+      ],
       "capabilities": [
         "platform.adapter"
       ]
@@ -426,7 +512,9 @@
         "min_version": "0.3.0",
         "max_version": "0.99.99"
       },
-      "dependencies": [],
+      "dependencies": [
+        "nichengfuben.provider-fncall-util"
+      ],
       "capabilities": [
         "platform.adapter"
       ]
@@ -455,7 +543,9 @@
         "min_version": "0.3.0",
         "max_version": "0.99.99"
       },
-      "dependencies": [],
+      "dependencies": [
+        "nichengfuben.provider-fncall-util"
+      ],
       "capabilities": [
         "platform.adapter"
       ]
@@ -484,7 +574,9 @@
         "min_version": "0.3.0",
         "max_version": "0.99.99"
       },
-      "dependencies": [],
+      "dependencies": [
+        "nichengfuben.provider-fncall-util"
+      ],
       "capabilities": [
         "platform.adapter"
       ]
@@ -513,7 +605,9 @@
         "min_version": "0.3.0",
         "max_version": "0.99.99"
       },
-      "dependencies": [],
+      "dependencies": [
+        "nichengfuben.provider-fncall-util"
+      ],
       "capabilities": [
         "platform.adapter"
       ]
@@ -542,7 +636,9 @@
         "min_version": "0.3.0",
         "max_version": "0.99.99"
       },
-      "dependencies": [],
+      "dependencies": [
+        "nichengfuben.provider-fncall-util"
+      ],
       "capabilities": [
         "platform.adapter"
       ]
@@ -571,7 +667,9 @@
         "min_version": "0.3.0",
         "max_version": "0.99.99"
       },
-      "dependencies": [],
+      "dependencies": [
+        "nichengfuben.provider-fncall-util"
+      ],
       "capabilities": [
         "platform.adapter"
       ]
@@ -600,7 +698,9 @@
         "min_version": "0.3.0",
         "max_version": "0.99.99"
       },
-      "dependencies": [],
+      "dependencies": [
+        "nichengfuben.provider-fncall-util"
+      ],
       "capabilities": [
         "platform.adapter"
       ]
@@ -629,7 +729,9 @@
         "min_version": "0.3.0",
         "max_version": "0.99.99"
       },
-      "dependencies": [],
+      "dependencies": [
+        "nichengfuben.provider-fncall-util"
+      ],
       "capabilities": [
         "platform.adapter"
       ]
@@ -658,7 +760,9 @@
         "min_version": "0.3.0",
         "max_version": "0.99.99"
       },
-      "dependencies": [],
+      "dependencies": [
+        "nichengfuben.provider-fncall-util"
+      ],
       "capabilities": [
         "platform.adapter"
       ]
@@ -687,7 +791,9 @@
         "min_version": "0.3.0",
         "max_version": "0.99.99"
       },
-      "dependencies": [],
+      "dependencies": [
+        "nichengfuben.provider-fncall-util"
+      ],
       "capabilities": [
         "platform.adapter"
       ]
@@ -709,7 +815,7 @@
         "name": "nichengfuben"
       },
       "host_application": {
-        "min_version": "2.2.0-alpha",
+        "min_version": "2.2.268",
         "max_version": "2.2.99"
       },
       "sdk": {
@@ -745,7 +851,9 @@
         "min_version": "0.3.0",
         "max_version": "0.99.99"
       },
-      "dependencies": [],
+      "dependencies": [
+        "nichengfuben.provider-fncall-util"
+      ],
       "capabilities": [
         "platform.adapter"
       ]
@@ -767,7 +875,7 @@
         "name": "nichengfuben"
       },
       "host_application": {
-        "min_version": "2.2.0-alpha",
+        "min_version": "2.2.268",
         "max_version": "2.2.99"
       },
       "sdk": {
