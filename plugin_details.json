@@ -28,7 +28,8 @@
     },
     "repositoryUrl": "https://github.com/Provider-Evo/Provider-Aitianhu2-Adapter",
     "changelog": "",
-    "readme": ""
+    "readme": "",
+    "likeIssueNumber": 1
   },
   {
     "id": "nichengfuben.provider-apiairforce-adapter",
@@ -59,7 +60,8 @@
     },
     "repositoryUrl": "https://github.com/Provider-Evo/Provider-Apiairforce-Adapter",
     "changelog": "",
-    "readme": ""
+    "readme": "",
+    "likeIssueNumber": 2
   },
   {
     "id": "nichengfuben.provider-azuretranslate-adapter",
@@ -90,7 +92,8 @@
     },
     "repositoryUrl": "https://github.com/Provider-Evo/Provider-Azuretranslate-Adapter",
     "changelog": "",
-    "readme": ""
+    "readme": "",
+    "likeIssueNumber": 3
   },
   {
     "id": "nichengfuben.provider-caiyuesbk-adapter",
@@ -121,7 +124,8 @@
     },
     "repositoryUrl": "https://github.com/Provider-Evo/Provider-Caiyuesbk-Adapter",
     "changelog": "",
-    "readme": ""
+    "readme": "",
+    "likeIssueNumber": 4
   },
   {
     "id": "nichengfuben.provider-cerebras-adapter",
@@ -152,7 +156,8 @@
     },
     "repositoryUrl": "https://github.com/Provider-Evo/Provider-Cerebras-Adapter",
     "changelog": "",
-    "readme": ""
+    "readme": "",
+    "likeIssueNumber": 5
   },
   {
     "id": "nichengfuben.provider-cfplayground-adapter",
@@ -183,7 +188,8 @@
     },
     "repositoryUrl": "https://github.com/Provider-Evo/Provider-Cfplayground-Adapter",
     "changelog": "",
-    "readme": ""
+    "readme": "",
+    "likeIssueNumber": 6
   },
   {
     "id": "nichengfuben.provider-chatmoe-adapter",
@@ -214,7 +220,8 @@
     },
     "repositoryUrl": "https://github.com/Provider-Evo/Provider-Chatmoe-Adapter",
     "changelog": "",
-    "readme": ""
+    "readme": "",
+    "likeIssueNumber": 7
   },
   {
     "id": "nichengfuben.provider-chutes-adapter",
@@ -245,7 +252,8 @@
     },
     "repositoryUrl": "https://github.com/Provider-Evo/Provider-Chutes-Adapter",
     "changelog": "",
-    "readme": ""
+    "readme": "",
+    "likeIssueNumber": 8
   },
   {
     "id": "nichengfuben.provider-cloudflare-adapter",
@@ -276,7 +284,8 @@
     },
     "repositoryUrl": "https://github.com/Provider-Evo/Provider-Cloudflare-Adapter",
     "changelog": "",
-    "readme": ""
+    "readme": "",
+    "likeIssueNumber": 9
   },
   {
     "id": "nichengfuben.provider-codebuddy-adapter",
@@ -307,7 +316,8 @@
     },
     "repositoryUrl": "https://github.com/Provider-Evo/Provider-Codebuddy-Adapter",
     "changelog": "",
-    "readme": ""
+    "readme": "",
+    "likeIssueNumber": 10
   },
   {
     "id": "nichengfuben.provider-coplan-util",
@@ -337,7 +347,8 @@
     },
     "repositoryUrl": "https://github.com/Provider-Evo/Provider-Coplan-Util",
     "changelog": "",
-    "readme": ""
+    "readme": "",
+    "likeIssueNumber": 11
   },
   {
     "id": "nichengfuben.provider-cursor-adapter",
@@ -368,7 +379,8 @@
     },
     "repositoryUrl": "https://github.com/Provider-Evo/Provider-Cursor-Adapter",
     "changelog": "",
-    "readme": ""
+    "readme": "",
+    "likeIssueNumber": 12
   },
   {
     "id": "nichengfuben.provider-deepl-adapter",
@@ -399,7 +411,8 @@
     },
     "repositoryUrl": "https://github.com/Provider-Evo/Provider-Deepl-Adapter",
     "changelog": "",
-    "readme": ""
+    "readme": "",
+    "likeIssueNumber": 13
   },
   {
     "id": "nichengfuben.provider-deepseek-adapter",
@@ -430,7 +443,8 @@
     },
     "repositoryUrl": "https://github.com/Provider-Evo/Provider-Deepseek-Adapter",
     "changelog": "",
-    "readme": ""
+    "readme": "",
+    "likeIssueNumber": 14
   },
   {
     "id": "nichengfuben.provider-edgetts-adapter",
@@ -461,7 +475,8 @@
     },
     "repositoryUrl": "https://github.com/Provider-Evo/Provider-Edgetts-Adapter",
     "changelog": "",
-    "readme": ""
+    "readme": "",
+    "likeIssueNumber": 15
   },
   {
     "id": "nichengfuben.provider-fncall-util",
@@ -490,7 +505,8 @@
     },
     "repositoryUrl": "https://github.com/Provider-Evo/Provider-Fncall-Util",
     "changelog": "",
-    "readme": ""
+    "readme": "",
+    "likeIssueNumber": 16
   },
   {
     "id": "nichengfuben.provider-googletranslate-adapter",
@@ -521,7 +537,8 @@
     },
     "repositoryUrl": "https://github.com/Provider-Evo/Provider-Googletranslate-Adapter",
     "changelog": "",
-    "readme": ""
+    "readme": "",
+    "likeIssueNumber": 17
   },
   {
     "id": "nichengfuben.provider-gtts-adapter",
@@ -552,7 +569,8 @@
     },
     "repositoryUrl": "https://github.com/Provider-Evo/Provider-Gtts-Adapter",
     "changelog": "",
-    "readme": ""
+    "readme": "",
+    "likeIssueNumber": 18
   },
   {
     "id": "nichengfuben.provider-n1n-adapter",
@@ -583,7 +601,8 @@
     },
     "repositoryUrl": "https://github.com/Provider-Evo/Provider-N1n-Adapter",
     "changelog": "",
-    "readme": ""
+    "readme": "",
+    "likeIssueNumber": 19
   },
   {
     "id": "nichengfuben.provider-noobkeys-adapter",
@@ -614,7 +633,8 @@
     },
     "repositoryUrl": "https://github.com/Provider-Evo/Provider-Noobkeys-Adapter",
     "changelog": "",
-    "readme": ""
+    "readme": "",
+    "likeIssueNumber": 20
   },
   {
     "id": "nichengfuben.provider-nvidia-adapter",
@@ -645,7 +665,8 @@
     },
     "repositoryUrl": "https://github.com/Provider-Evo/Provider-Nvidia-Adapter",
     "changelog": "",
-    "readme": ""
+    "readme": "",
+    "likeIssueNumber": 21
   },
   {
     "id": "nichengfuben.provider-ollama-adapter",
@@ -676,7 +697,8 @@
     },
     "repositoryUrl": "https://github.com/Provider-Evo/Provider-Ollama-Adapter",
     "changelog": "",
-    "readme": ""
+    "readme": "",
+    "likeIssueNumber": 22
   },
   {
     "id": "nichengfuben.provider-openaifm-adapter",
@@ -707,7 +729,8 @@
     },
     "repositoryUrl": "https://github.com/Provider-Evo/Provider-Openaifm-Adapter",
     "changelog": "",
-    "readme": ""
+    "readme": "",
+    "likeIssueNumber": 23
   },
   {
     "id": "nichengfuben.provider-openrouter-adapter",
@@ -738,7 +761,8 @@
     },
     "repositoryUrl": "https://github.com/Provider-Evo/Provider-Openrouter-Adapter",
     "changelog": "",
-    "readme": ""
+    "readme": "",
+    "likeIssueNumber": 24
   },
   {
     "id": "nichengfuben.provider-perplexity-adapter",
@@ -769,7 +793,8 @@
     },
     "repositoryUrl": "https://github.com/Provider-Evo/Provider-Perplexity-Adapter",
     "changelog": "",
-    "readme": ""
+    "readme": "",
+    "likeIssueNumber": 25
   },
   {
     "id": "nichengfuben.provider-qwen-adapter",
@@ -800,7 +825,8 @@
     },
     "repositoryUrl": "https://github.com/Provider-Evo/Provider-Qwen-Adapter",
     "changelog": "",
-    "readme": ""
+    "readme": "",
+    "likeIssueNumber": 26
   },
   {
     "id": "nichengfuben.provider-webui-util",
@@ -829,7 +855,8 @@
     },
     "repositoryUrl": "https://github.com/Provider-Evo/Provider-Webui-Util",
     "changelog": "",
-    "readme": ""
+    "readme": "",
+    "likeIssueNumber": 27
   },
   {
     "id": "nichengfuben.provider-yandextranslate-adapter",
@@ -860,7 +887,8 @@
     },
     "repositoryUrl": "https://github.com/Provider-Evo/Provider-Yandextranslate-Adapter",
     "changelog": "",
-    "readme": ""
+    "readme": "",
+    "likeIssueNumber": 28
   },
   {
     "id": "nichengfuben.provider-zen-adapter",
@@ -889,6 +917,7 @@
     },
     "repositoryUrl": "https://github.com/Provider-Evo/Provider-Zen-Adapter",
     "changelog": "",
-    "readme": ""
+    "readme": "",
+    "likeIssueNumber": 29
   }
 ]

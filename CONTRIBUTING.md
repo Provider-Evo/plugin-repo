@@ -19,4 +19,4 @@
 
 ## 插件 ID
 
-推荐：`nichengfuben.provider-<name>` 或 `provider-evo.<name>`，与 `_manifest.json` 的 `id` 一致。
+推荐：`<author>.provider-<name>` 或 `provider-evo.<name>`，与 `_manifest.json` 的 `id` 一致。
